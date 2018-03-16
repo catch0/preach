@@ -12,7 +12,7 @@ a {
 }
 
 a:hover {
-  color: #fec503;
+  color: #062068;
 }
 
 .text-primary {
@@ -131,7 +131,7 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: #fed136;
+  color: #062068;
 }
 
 @media (min-width: 992px) {
